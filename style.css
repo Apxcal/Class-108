@@ -1,0 +1,46 @@
+.body{
+    font-family: 'Nunito Sans', sans-serif;
+    background:#C3B1E1;
+    color:purple;
+    font-weight:bold;
+}
+
+.divheader{
+    background:#A7C7E7;
+    font-family: 'Hanken Grotesk', sans-serif;
+    color:darkblue;
+    margin-bottom:25px;
+}
+
+.divheader p{
+    font-family: 'Playfair Display', serif;
+    font-size:25;
+    font-weight:bold;
+    letter-spacing:1;
+}
+
+.divmain{
+    margin-top:25px;
+    letter-spacing:1.7;
+}
+
+.divmain button{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:bold;
+    font-size:20px;
+    width:150px;
+}
+
+.footer{
+    bottom:0;
+    position:fixed;
+    background:lightgray;
+    color:black;
+    font-weight:bold;
+    text-align:center;
+    width:100%;
+    font-size:15px;
+    text-shadow:2px 2px 2px gray;
+    line-height:1.5;
+    letter-spacing:1.5;
+}
